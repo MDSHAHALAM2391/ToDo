@@ -1,0 +1,7 @@
+.crossLine:hover{
+  text-decoration: line-through;
+}
+
+.crossLine[type="checkbox"] {
+  text-decoration: line-through;
+}
